@@ -49,6 +49,11 @@ Añadimos una nueva app
 ![image](https://github.com/robbyq92/hacktone6/assets/49034238/41f1a522-b3c5-40a0-8566-cda8eca5036d)
 ![image](https://github.com/robbyq92/hacktone6/assets/49034238/c2250ee0-b828-49cf-b329-4e13525f8ade)
 
+NOTA: añadir en el proyecto que se pueda crear proyectos en el clúster
+
+![image](https://github.com/robbyq92/hacktone6/assets/49034238/4be18a0f-eeb4-4c60-a5c1-a45c89691ce6)
+
+
 
 
 
