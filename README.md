@@ -31,3 +31,25 @@ kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/st
 ```
 
 ![image](https://github.com/robbyq92/hacktone6/assets/49034238/65799741-9ebf-428c-9061-0146486a1653)
+
+
+Clonamos repositorio
+```
+https://github.com/robbyq92/hello-k8s-hack6.git
+```
+
+Creamos un nuevo proyecto en argocd y lo añadimos ahí vía https:
+![image](https://github.com/robbyq92/hacktone6/assets/49034238/a7a25ec7-9cf5-4d19-88e4-8a7f596afe37)
+
+añadimos el repositorio:
+![image](https://github.com/robbyq92/hacktone6/assets/49034238/6caf9af2-0734-4e9c-af5f-e1943121461c)
+![image](https://github.com/robbyq92/hacktone6/assets/49034238/2df3e794-06eb-4c19-975d-c7409aee981c)
+
+Añadimos una nueva app
+![image](https://github.com/robbyq92/hacktone6/assets/49034238/41f1a522-b3c5-40a0-8566-cda8eca5036d)
+![image](https://github.com/robbyq92/hacktone6/assets/49034238/c2250ee0-b828-49cf-b329-4e13525f8ade)
+
+
+
+
+
