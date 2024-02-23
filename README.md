@@ -18,3 +18,16 @@ Tips:
 •	GitOps framework
 •	Argo CD Installation
 ```
+
+
+## Pasos:
+
+Instalar el argocd 
+https://argo-cd.readthedocs.io/en/stable/
+
+```
+kubectl create namespace argocd
+kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+```
+
+![image](https://github.com/robbyq92/hacktone6/assets/49034238/65799741-9ebf-428c-9061-0146486a1653)
